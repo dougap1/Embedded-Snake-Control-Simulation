@@ -1,0 +1,3 @@
+PyQt6
+pyserial
+qt-material
